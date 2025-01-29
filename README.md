@@ -8,7 +8,13 @@ La seule différence entre une extension Chrome et un site Web ordinaire, c’es
 
 ## Le challenge
 
-Création d'une extension Chrome nommé page print va va permettre à l'utilisateur d'imprimer la page web sur laquelle il se trouve.
+Création d'une extension Chrome nommée page print va va permettre à l'utilisateur d'imprimer la page web sur laquelle il se trouve.
+
+j'ai appris grâce à ce projet à :
+
+- configurer de la structure de base de notre extension, y compris le fichier manifeste.
+- concevoir une popup d'extension avec HTML5 et CSS3 afin d'avoir une interface claire et intuitive.
+- implémenter le JavaScript pour gérer les demandes d'impression.
 
 ## Démonstration
 
